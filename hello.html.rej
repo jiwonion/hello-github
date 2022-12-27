@@ -1,0 +1,11 @@
+diff a/hello.html b/hello.html	(rejected hunks)
+@@ -3,7 +3,7 @@
+     <body>
+         <h1>Hello JS</h1>
+         <script>
+-            console.log("Hello world!");
++            console.log("Hello world! ac");
+         </script>
+     </body>
+ </html>
+\ No newline at end of file
